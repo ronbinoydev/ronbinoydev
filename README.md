@@ -53,12 +53,12 @@ Computer Science graduate (St. Stephen's College, Delhi) pursuing an MS in Data 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ronbinoydev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronbinoydev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-rose-nine.vercel.app/api?username=ronbinoydev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-rose-nine.vercel.app/api/top-langs/?username=ronbinoydev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://streak-stats.demolab.com/?user=ronbinoydev&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ronbinoydev&theme=tokyonight&no-frame=true&row=1&column=6" width="80%" />
+<img src="https://trophy.ryglcloud.net/?username=ronbinoydev&theme=tokyonight&no-frame=true&row=1&column=6" width="80%" />
 
 </div>
 
